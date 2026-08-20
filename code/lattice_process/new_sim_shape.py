@@ -1,4 +1,4 @@
-"""Avalanche temporal-profile (shape-collapse) simulation at the production point.
+"""Avalanche temporal-profile simulation.
 Records the instantaneous active count n(t) for every single-seed avalanche. Then
 builds the mean profile <s(t|T)> in duration bands and tests the universal-shape
 collapse  <s(t|T)> = T^{gamma_ST-1} F(t/T). """
