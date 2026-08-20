@@ -1,4 +1,4 @@
-"""Statistics measurement of the fluctuation observable of the jump contact process.
+"""Statistics measurement of the fluctuation observable of the contact process.
 """
 from __future__ import annotations
 
