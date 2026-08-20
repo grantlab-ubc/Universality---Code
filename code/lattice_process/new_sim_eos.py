@@ -1,8 +1,7 @@
-"""Conjugate-field equation of state (Widom--Griffiths) simulation.
+"""Conjugate-field equation of state simulation.
 A spontaneous-creation field h is switched on.  
 This is the order parameter as a function of its conjugate field and the distance
-to criticality -- the ingredients of the directed-percolation equation of state
-        rho = |Delta|^beta  H( h / |Delta|^sigma ).
+to criticality
 """
 from __future__ import annotations
 
