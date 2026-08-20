@@ -1,4 +1,4 @@
-"""Extension of the high-statistics jump-contact-process sweep
+"""Extension of the high-statistics contact-process sweep
 """
 from __future__ import annotations
 
