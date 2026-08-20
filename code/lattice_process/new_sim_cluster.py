@@ -1,7 +1,4 @@
-"""Avalanche cluster geometry: the spatial 'scar' / invariant support.
-For each single-seed critical avalanche we record, besides its size S, duration T
-and number of distinct visited sites M, the spatial radius of gyration R_g of the
-visited set 
+"""Avalanche cluster geometry
 """
 from __future__ import annotations
 
