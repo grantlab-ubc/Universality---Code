@@ -1,4 +1,4 @@
-"""Dense sampling of the jump-contact-process recombination sweep across its
+"""Dense sampling of the contact-process recombination sweep across its
 absorbing transition.
 """
 from __future__ import annotations
