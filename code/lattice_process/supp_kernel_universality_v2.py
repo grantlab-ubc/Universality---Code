@@ -1,6 +1,5 @@
 """Supplementary test: kernel-independence of the DP exponents.
-  The four structurally different short-range kernels collapse onto the DP
-  values. The long-range kernel is drifted toward the mean-field / Levy point.
+  The four different short-range kernels collapse onto the DP values. 
 """
 from __future__ import annotations
 
